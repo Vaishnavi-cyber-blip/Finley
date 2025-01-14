@@ -1,6 +1,6 @@
 # Firm Intelligence Bot
 
-Firm Intelligence Bot is an AI-powered conversational chatbot that helps users interact with and extract insights from documents related to firm management. It leverages cutting-edge AI models like Groq for conversational capabilities and provides an intuitive interface for users to ask questions and resolve queries about their documents.
+Firm Intelligence Bot is an AI-powered conversational chatbot that helps users interact with and extract insights from documents related to firm management. It leverages cutting-edge AI models like mistral for conversational capabilities and provides an intuitive interface for users to ask questions and resolve queries about their documents.
 
 ## Features
 
